@@ -1,1 +1,4 @@
-# Price-Setter-and-Follower-Dynamic-Pricing-
+# Price Setter and Follower (Dynamic Pricing)
+
+run the 
+
